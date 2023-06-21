@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+line1
+line2
+line3
+=======
+Line 1
+>>>>>>> parent of d5220da (adding line 2 in file1.txt and commiting file1.txt)
